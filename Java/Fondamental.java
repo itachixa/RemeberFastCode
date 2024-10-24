@@ -1,4 +1,4 @@
-public class Fondamental{
+public class fondamental{
     public static void main(String[] args) {
         // Déclaration de variables
         int a = 20;
