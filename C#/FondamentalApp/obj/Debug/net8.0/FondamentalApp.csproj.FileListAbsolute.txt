@@ -1,0 +1,15 @@
+C:\Users\Itachixa\Desktop\DEV\RemeberFastCode\C#\FondamentalApp\bin\Debug\net8.0\FondamentalApp.exe
+C:\Users\Itachixa\Desktop\DEV\RemeberFastCode\C#\FondamentalApp\bin\Debug\net8.0\FondamentalApp.deps.json
+C:\Users\Itachixa\Desktop\DEV\RemeberFastCode\C#\FondamentalApp\bin\Debug\net8.0\FondamentalApp.runtimeconfig.json
+C:\Users\Itachixa\Desktop\DEV\RemeberFastCode\C#\FondamentalApp\bin\Debug\net8.0\FondamentalApp.dll
+C:\Users\Itachixa\Desktop\DEV\RemeberFastCode\C#\FondamentalApp\bin\Debug\net8.0\FondamentalApp.pdb
+C:\Users\Itachixa\Desktop\DEV\RemeberFastCode\C#\FondamentalApp\obj\Debug\net8.0\FondamentalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Itachixa\Desktop\DEV\RemeberFastCode\C#\FondamentalApp\obj\Debug\net8.0\FondamentalApp.AssemblyInfoInputs.cache
+C:\Users\Itachixa\Desktop\DEV\RemeberFastCode\C#\FondamentalApp\obj\Debug\net8.0\FondamentalApp.AssemblyInfo.cs
+C:\Users\Itachixa\Desktop\DEV\RemeberFastCode\C#\FondamentalApp\obj\Debug\net8.0\FondamentalApp.csproj.CoreCompileInputs.cache
+C:\Users\Itachixa\Desktop\DEV\RemeberFastCode\C#\FondamentalApp\obj\Debug\net8.0\FondamentalApp.sourcelink.json
+C:\Users\Itachixa\Desktop\DEV\RemeberFastCode\C#\FondamentalApp\obj\Debug\net8.0\FondamentalApp.dll
+C:\Users\Itachixa\Desktop\DEV\RemeberFastCode\C#\FondamentalApp\obj\Debug\net8.0\refint\FondamentalApp.dll
+C:\Users\Itachixa\Desktop\DEV\RemeberFastCode\C#\FondamentalApp\obj\Debug\net8.0\FondamentalApp.pdb
+C:\Users\Itachixa\Desktop\DEV\RemeberFastCode\C#\FondamentalApp\obj\Debug\net8.0\FondamentalApp.genruntimeconfig.cache
+C:\Users\Itachixa\Desktop\DEV\RemeberFastCode\C#\FondamentalApp\obj\Debug\net8.0\ref\FondamentalApp.dll
